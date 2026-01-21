@@ -269,7 +269,7 @@ const projects = [
     ],
     image: Birthday,
     source_code_link: "https://github.com/getfile555/Birthdaydemo.git",
-    live_link: "birthday1-1.netlify.app/",
+    live_link: "https://birthday1-1.netlify.app/",
   },
   {
     name: "Social Sphere",
