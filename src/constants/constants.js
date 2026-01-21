@@ -243,7 +243,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/getfile555/portfolio-.git",
-    live_link: "https://studynotion-master.vercel.app/",
+    live_link: "https://portfolio-vvx6.vercel.app/",
   },
   {
     name: "Birthday-site",
@@ -268,7 +268,7 @@ const projects = [
       },
     ],
     image: birthday,
-    source_code_link: "https://github.com/himanshu8443/FlipKart-Price-Tracker",
+    source_code_link: "https://github.com/getfile555/Birthdaydemo.git",
     live_link:
       "birthday1-1.netlify.app",
   },
