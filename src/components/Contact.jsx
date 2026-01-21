@@ -44,7 +44,7 @@ const Contact = () => {
         process.env.TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: "Himanshu Sangwan",
+          to_name: "Kareem Basha",
           from_email: form.email,
           to_email: "kexer745@gmail.com",
           message: form.message,
