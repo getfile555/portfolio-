@@ -204,7 +204,7 @@ const projects = [
     ],
     image: Vechile,
     source_code_link: "https://github.com/getfile555/Vechile-info.git",
-    live_link: "https://github.com/getfile555/Vechile-info.git",
+    live_link: "https://vechile-7ppm.onrender.com/",
   },
   {
     name: "Portfolio",
