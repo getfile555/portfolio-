@@ -2,6 +2,7 @@ import { Toaster } from "react-hot-toast";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 import SmoothScroll from "@/components/SmoothScroll";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -30,6 +31,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Toaster />
         {children}
+        <Analytics />
       </body>
     </html>
   );
